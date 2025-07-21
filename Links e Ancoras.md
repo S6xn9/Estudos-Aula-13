@@ -1,5 +1,9 @@
 # Anotações de Estudo: Links e Âncoras em HTML5
 
+📅 Criado em: **20 de julho de 2025**  
+📚 Matéria:**Programação Web (HTML5 e CSS3)**  
+✍️ Autor: **Marco**
+
 ## 1. Introdução: O Coração da Web - Hiperlinks
 
 Os links (ou hiperlinks) são a essência da World Wide Web. Eles permitem conectar documentos, criar navegação entre páginas e até dentro da mesma página. Em HTML, o elemento `<a>` (âncora) cria esses links.
